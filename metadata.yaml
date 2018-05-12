@@ -1,9 +1,13 @@
 _repo: Viimeinen-mohikaani-Kertous-vuodelta-1757_47160
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Lehtonen, Vihtori
     gutenberg_agent_id: '41672'
     url: http://www.gutenberg.org/2009/agents/41672
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/483
     wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47160#Viimeinen-mohikaani-Kertous-vuodelta-1757
 gutenberg_issued: '2014-10-20'
 gutenberg_type: Text
 identifiers:
